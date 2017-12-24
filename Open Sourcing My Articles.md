@@ -1,3 +1,5 @@
+# Open Sourcing My Articles.md
+
 What is the bigest open-source project in the world? Some software on Github? No it’s the biggest Encyclopedia this Earth has ever seen: Wikipedia.
 
 Most of you might think that only software can be open-source, but it’s a misconception. Anything can actually be open-source:
@@ -9,7 +11,7 @@ Recently I’ve decided to write a bit more, especially marketing-related conten
 
 Something came to my mind. I’ll try to open-source my articles thanks to an experiment.
 
-# The Experiment
+## The Experiment
 
 **Fact:** I am not the best marketeur in the world. Nobody is. 
 
@@ -19,7 +21,7 @@ Something came to my mind. I’ll try to open-source my articles thanks to an ex
 
 For those of you who don’t have Github, you’ll be able to send me an email with the changes you’re requesting. If I agree with them, I’ll create the commit myself and update the master
 
-# What is Github
+## What is Github
 
 Github is a collaboration tool mainly used by developers.
 
@@ -27,7 +29,7 @@ It helps team stay up to date on a software project. It allows developers to wor
 
 It helps keep the code of a software safe by working on different branches and merging them to the master only after having reviewed the modifications made by other developers, called commits. If by error, a merge creates bugs on the master branch, you can alway revert to the previous version of the Master branch. This is called versioning.
 
-# Learning by doing
+## Learning by doing
 
 If you want to try by yourself you can go to my Articles repository on Github here: https://github.com/yoann792/articles
 
