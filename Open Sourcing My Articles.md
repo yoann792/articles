@@ -1,6 +1,6 @@
 # Open Sourcing My Articles.md
 
-What is the bigest open-source project in the world? Some software on Github? No it’s the biggest Encyclopedia this Earth has ever seen: Wikipedia.
+What is the biggest open-source project in the world? Some software on Github? No it’s the biggest Encyclopedia this Earth has ever seen: Wikipedia.
 
 Most of you might think that only software can be open-source, but it’s a misconception. Anything can actually be open-source:
 
