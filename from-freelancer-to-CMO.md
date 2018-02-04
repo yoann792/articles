@@ -1,6 +1,6 @@
-From Freelancer to CMO at comet — An Early Stage Startup Employee Playbook to Thrive in the Fastest Growing Companies
+# From Freelancer to CMO at comet — An Early Stage Startup Employee Playbook to Thrive in the Fastest Growing Companies
 
-TODO when you read this article
+**TODO when you read this article** 
 ✅ You can download this article thanks to the Google doc spreadsheet at the end. Just open it, file, copy
 ✅ Copy whatever you want. You can focus on the grey boxes if you don't have time
 ✅ Modify whatever you want
@@ -26,7 +26,7 @@ Here’s how it’ll work:
 I’ll tell you what I did at comet, then I’ll give you clear actionnable actions you can find in the grey boxes.
 
 You can therefore skip some parts and go directly to each Key learnings sections if you wish. 
-I/ Due Diligence 🔎
+# I/ Due Diligence 🔎
 Working for a startup is like dating someone.
 You’ll spend a shit ton of time with this company. Even more than with your partner!
 You won’t only see it from 9 to 5 like a “regular” company. No. You’ll think about it from sunrise to sunset. After that your unconscious will takeover and you’ll start to dream about it.
@@ -36,7 +36,7 @@ The plan is to: A, gather infos about the startup, vision and team, B, meet the 
 Let’s dive in.
 
 
-A/ Gather as much information as possible about the startup/vision/team
+**A/ Gather as much information as possible about the startup/vision/team**
 As I met Charles 6 months before joining, I’ve been able to discuss with him about his project so I knew plenty about the future of work, and about freelancing.
 Plus, I even had an entrepreneurial project about the same topic:
 
@@ -44,12 +44,13 @@ This is my evernote folder with 145 notes about the Future of Work
 
 Even if you don’t have to go that deep, it’s a great idea to look for as much information as you can to see if the company, the vision , and the team are good fits for you.
 
-Key learnings / TODO to gather information about the startup
+**Key learnings / TODO to gather information about the startup**
 ✅ Gather everything you can about the team in an Evernote, spreadsheet or whatever you want
 ✅ Gather everything you can about the business
 ✅ Start to analyze and write down everything that goes through your head about what you found
 ✅ Write down all the questions you’d like to ask to employees, co-founders, or investors
-B/ Meet employees and founders
+
+## B/ Meet employees and founders
 My story is a bit different than regular employees as I started as a freelancer. 
 I had plenty of time to talk with the team, to socialize, to see how they were seriously working during the day or goofing around during parties. This is when I truly fell in love with them. 
 I knew the vision was right, I knew the people working there were fun to work with, I knew they all wanted to walk toward the same future. 
@@ -58,7 +59,7 @@ Right now at comet, we have a 2-days observation period. Candidates join us to m
 After this tiny trial period, we have a pretty accurate gut feeling about this person, and they do have their own gut feeling about us.
 It’s important not to be focused on the executive team only when you discover a person. For instance, I like to alternate with my marketing team members to present our team to potential future employees. You’ll work with a team, not only one person.
 
-Key learnings / TODO about meeting employees and founders
+**Key learnings / TODO about meeting employees and founders**
 ✅ Meet 3/4 employees during work time if possible
 ✅ Meet 3/4 employees during a party or around a beer
 ✅ If you can, spend 2/3 entire days in the startup and make sure not to meet only the executives. Be natural. Don't think about it as an interview
@@ -67,7 +68,7 @@ Key learnings / TODO about meeting employees and founders
 
 Now that you’re working for your dream company, you should continue to gather knowledge about the business, the business model, its market, etc. Knowledge will be the foundations of your success.
 
-II/ Knowledge as your main foundations
+# II/ Knowledge as your main foundations
 If you let your learning lead to knowledge, you become a fool. If you let your learning lead to action, you become wealthy.
 - Jim Rohn
 I love that quote because it tells us that knowledge and learning without actions is worth nothing. Now that you’re working in your new startup, you should take this really seriously. In my opinion, the process should be something like:
@@ -76,31 +77,35 @@ This is exactly what you should do when you start working for a startup. You lea
 Your mission will also be to share that knowledge with the entire company in order to coordinate and to be able to take actions at the team/company level.
 The above process updated now looks like that: A, gather the existing knowledge, B, create your own knowledge, C, centralize in order to take actions
 Gather the existing knowledge → create knowledge by learning → centralize knowledge → take actions
-A/ Gather the existing knowledge
+
+**A/ Gather the existing knowledge**
+
 First, Gather all the existing knowledge you can find at the startup level. Ask questions, meet people, read internal documents, write notes about them.
 Then, gather all the existing knowledge you can find in articles, white papers, books, etc. about the vertical you’re working in. For instance, if you work for a Fintech startup, focalize on this specific topic.
 Finally, gather all the existing knowledge you can find about your job. If you’re working as a marketing manager, read everything you can about marketing and take notes about those articles.
 
 Pro tip: use First Search to find a lot of content → https://search.firstround.com/
 
-Key learnings / TODO for gathering existing knowledge
+**Key learnings / TODO for gathering existing knowledge**
 ✅ Find articles / books / white papers about the startup you're interested in and its business (note that you should already know a lot from your due diligence. Still, you will be able to fine tune what you're looking for here)
 ✅ Use Instapaper / Kindle to read and to highlight content / take notes easily
 ✅ Extract those notes in your smartphone notes app and organize (for instance I have a comet folder with a note called managers notes where I add all the notes about management)
 
 
-B/ Create your own knowledge
+**B/ Create your own knowledge**
 
 Sometimes you won’t find some knowledge like that in the wild, or maybe you won’t be satisfied about the existing. Therefore you’ll have to create it from scratch or by talking to experts.
 For instance, at comet, when I was Head of B2B and taking care of some of the sales processes, I wasn’t satisfied with what I found so we built our own Sales Machine:
 A part of the comet Sales Machine processes
 
-Key learnings / TODO for creating new knowledge
+**Key learnings / TODO for creating new knowledge**
+
 ✅ Create new knowledge by talking to experts
 ✅ Combine different sources of knowledge to create your own
 ✅ Work with your team to create this new knowledge
 ✅ Ask for unbiased feedbacks outside the company
-C/ Centralize the knowledge
+
+**C/ Centralize the knowledge**
 
 Now you should have tens of notes hanging around everywhere. Google docs, notes, written notes, spreadsheets, words, lucid charts, etc.
 Your job is to centralize everything.
@@ -125,9 +130,7 @@ This created a momentum as I was able to show Charles and other team members tha
 After that, it was only a matter of days before the tool was adopted by the entire company.
 Now we are able to see all the knowledge accumulated and built by the other teams. This is great when you want to break communication barriers between teams. Especially when you’re growing super fast and communication is not the #1 priority.
 
-
-
-Key learnings / TODO for centralizing knowledge
+**Key learnings / TODO for centralizing knowledge**
 ✅ Find a tool to organize all your knowledge. I like Confluence but pick the tool of your choice
 ✅ Fill it with all the knowledge you’ve accumulated and document everything in this same tool
 ✅ Embark 2/3 team members and make sure they’re adopting the tool
@@ -136,14 +139,16 @@ Key learnings / TODO for centralizing knowledge
 This is not a one-time process but an ongoing one. You should do this from day one and keep updating your knowledge foundations. 
 Gathering knowledge is great, but how do you use it to shine in your organization? How do you become the most effective and efficient employee?
 
-III/ Be the most effective and efficient person in your company
+## III/ Be the most effective and efficient person in your company
+
 If you want to thrive in the startup world, you have to be the most effective person in your company, or at least, aim for that position. 
 Effective and efficient doesn’t mean you have to work 70 hours per week. On the contrary. Effective means you’ll work on the right thing and efficient that you’ll work on those things by saving as much energy and time as possible.
 A startup can be quite dreadful as you’ll be bombarded by informations and everything will move super fast. If you don’t want to get lost or overwhelmed, you’ll have to build processes, routines, automation, and means to prioritize everything.
 You want to become the person in your company that transforms an idea into successful actions.
 You’ll have to learn, A, how to prioritize, B, how to be disciplined, C, how to be an innovation catalyst.
 Let’s start by prioritization.
-A/ Prioritize like a machine: ITINDY 
+
+**A/ Prioritize like a machine: ITINDY**
 
 What is ITINDY? it stands for Important Things I’m Not Doing Yet. It’s a method invented by T.A. McCann that can be super effective and can work in parallel with other prioritization methods such as OKRs (Objective Key Results). But let’s focus on ITINDY.
 As the business changes and evolves, a founder (you) will also get lots of ideas (some good, some bad) from your team, customers, investors, other companies…but how do you know when or if to act on these? T.A. McCann
@@ -155,14 +160,14 @@ As the ideas with merit roll in, I add them to this list, acknowledging both the
 
 
 
-Key learnings / TODO for prioritizing
+**Key learnings / TODO for prioritizing**
 ✅ Create an ITINDY (Important Things I'm not Doing Yet) list. It can be on Trello, in Confluence, or just in a Google Spreadsheet
 ✅ As soon as you have an idea, or somebody in your team has one, add it to the ITINDY list and see where it fits
 ✅ In front of each idea add two things. A success metric and a deadline. Indeed maybe you're thinking that you'll reach for instance 10,000 followers on Instagram but maybe you will never because it's not the right channel. The deadline helps you to kill ideas that are meant to never succeed.
 ✅ Be strict with yourself and follow the list
 ✅ Read the original article by T.A McCann here
-B/ Discipline, discipline, discipline
 
+**B/ Discipline, discipline, discipline**
 Now that you have a way to be efficient by working on the right ideas thanks to the ITINDY methods, you’ll need a way to be efficient and to tackle these ideas as efficiently as possible.
 In order to do so, you’ll have to create discipline.
 There’s no one-size-fits-all method but most people rely on building routines that work for them.
@@ -178,22 +183,22 @@ I’ll give you the simplified version of mine and you can do whatever you want 
 7pm: home or hanging out with friends.
 
 
-Key learnings / TODO to increase your discipline
+**Key learnings / TODO to increase your discipline**
 ✅ Try to find when you’re the most efficient to do deep work (usually during the morning)
 ✅ Build your day around this time. Try to do early and late meetings, not during the day
 ✅ Use google Calendar to set up your routines
 Now that you’re disciplined and you know how to prioritize, how can you use these new super powers to propel your company?
-C/ Become the best Innovator of your company. 
 
+**C/ Become the best Innovator of your company.**
 The idea is that you’ll start with baby steps with micro innovations in order to achieve bigger ones.
 You’re a maker, a leader, not a follower. Be aware that I’m talking about innovation here but it doesn’t mean creating something totally new. I’m talking about implementing new things improving your companies output. At an individual or team level. 
 
-Innovation roadmap
+**Innovation roadmap**
 🕑 Months 1-2: you're starting to work and innovate on the smallest unit of the company, yourself
 🕘 Months 3-9: you're innovating in your own department
 🕛 Month 10-12: you unleash your innovation power at the company level
 
-a/ Months 1 and 2
+**a/ Months 1 and 2¨¨
 
 You’ll work essentially on the two previous point at a personal level: prioritization and discipline.
 Here’s a non exhaustive list of things you’ll like to work on:
@@ -205,13 +210,15 @@ work on your personal knowledge management and find a way to make what you learn
 Start to automate things that takes a lot of time but doesn’t add any value to your job. For instance, uploading an article on wordpress can easily takes 40 minutes of your time. Asking someone on Upwork to do it for you costs as little as 3 dollars per article. Totally worth your 40 minutes.
 
 
-Tips for innovating during the first two months
+**Tips for innovating during the first two months**
+
 1️⃣ Organize your desk and computer
 2️⃣ Work on your personal and pro routine
 3️⃣ Work on your personal knowledge management
 4️⃣ Work on making what your learn actionable
 5️⃣ Start to automate tasks that are time consuming with a low added value
-b/ Months 3 to 9
+
+**b/ Months 3 to 9**
 
 It’s time to expand your innovation scope. Innovate at the department level. How can you make the life of your team mate easier? How can you automate things so that you can all focus on more important stuff? How can you achieve this?
 Think of your department as a micro startup inside your startup. And start to think about different things. These are the some things you can focus on to start innovating (but you could think of tens of others):
@@ -221,20 +228,21 @@ How does your department manage new employees’ onboardings. Is there a way to 
 How do you centralize your department knowledge? Do you write a playbook?
 Etc.
 
-Tips for innovating in your department between month 3 and 9
+**Tips for innovating in your department between month 3 and 9**
 Focus on the simplest in the beginning to create a momentum:
 1️⃣ An innovation you can do alone
 2️⃣ In a very short amount of time
 3️⃣ That will affect all your team mates
 4️⃣ Easy or necessary to adopt
 5️⃣ Free or super cheap to implement
-c/ Months 10 to 12
+
+**c/ Months 10 to 12**
 
 You’re now known as someone who’s tackling problems and bring innovation to your department. It is now one of your mission to bring this innovative power to the entire organization.
 This won’t be an easy task as you’ll face some reticence and unresponsiveness from your colleagues. Change is always hard to implement since we are wired to embrace the status quo.
 But here’s a masterplan you can follow
 
-Tips for innovating in your company between month 10 and 12
+**Tips for innovating in your company between month 10 and 12**
 1️⃣ Focus on only one thing
 2️⃣ Choose your target by looking for a company-wide problem
 3️⃣ Analyze thoroughly the problem and find a solution
@@ -246,11 +254,14 @@ First I started to use only for my self, then I asked Ludivine and Benjamin my t
 This doesn’t work if you don’t find the perfect solution. That’s why you have to try it first on yourself, see if it works, then diffuse it to the entire company. Be careful not to turn this into politics though. If people don’t want to adopt your solution right away, to throw yourself into a political rally trying to convince and convert people by arguing or using rhetoric. Leading by example is the way to go. Show that you’re applying what you’re proposing to yourself and your team and show that it works. 
 I want to highlight the fact that you don’t have to be a Chief of something or Head of something to implement new things at a team or company level. Especially if you’re working in a Startup which has a culture of pushing and encouraging innovation. If it’s not the case, maybe you should look somewhere else.
 
-Conclusion
+**Conclusion**
+
 Working in a young and fast growing startup is not easy. You’ll have to adapt and grow faster than the business itself in order to add enough value to it. 
 I gave you a pretty good framework of what to do before and after joining the startup of your dream but feel free to adapt it to yourself, even to improve it thanks to your own experience.
 After reading this article you might think that everything orbits around knowledge. That’s the case. You need a decent amount of knowledge in order to take the most efficient and effective actions. Sometimes you have to tell yourself that even though you can still gather and analyze more info, it’s better to take action now, analyze results and iterate.
-TL;DR
+
+## TL;DR
+
 I/ Before joining a startup, do your due diligence by gathering everything you can about the company. The plan is to: A, gather infos about the startup, vision and team, B, meet the team. To do so you’ll make your own research by googling, meeting team members, spending a few days in immersion in order to have a good sense of what it’s like to work there.
 II/ When you’re in, gather all the information you can as it’ll be the foundations of your growth and the growth of the company. The idea is to: A, gather the existing knowledge, B, create your own knowledge, C, centralize in order to take actions. First see if there’s a centralization of knowledge at your company, if not, gather everything you can wherever you want. From there, build your own knowledge by learning, meeting experts, etc. In the meantime build a knowledge centralization for yourself and for the entire company.
 III/ As you grow in the company, you have to reach for the stars by becoming the most efficient and effective person of the company. You’ll have to learn, A, how to prioritize, B, how to be disciplined, C, how to be an innovation catalyst. Learning prioritization and discipline are the cornerstone of becoming a serial innovator. By innovation, I’m not talking about breakthrough innovation, but ways to make the life of you and your team mates easier, more effective, and more efficient through the implementation of automation, new tools, or new processes. 
